@@ -1,17 +1,17 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **UA IT(JKH IT)**
+- 🔭 I’m currently working on **Android app**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **JS**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **Java, Python, PHP and NodeJS**
 
-- 📫 How to reach me **supunanjanananayakkara@gmail.com**
+- 📫 How to reach me 
 
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I think I'm funny**
 
