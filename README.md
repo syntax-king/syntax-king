@@ -5,14 +5,6 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 👨‍💻 All of my projects are available at 
-
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
-
-- 📫 How to reach me 
-
-- 📄 Know about my experiences 
-
 - ⚡ Fun fact **I think I'm funny**
 
 <br>
